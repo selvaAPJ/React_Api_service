@@ -1,0 +1,17 @@
+E:\selva\React_Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\selva\React_Api\bin\Debug\netcoreapp2.1\appsettings.json
+E:\selva\React_Api\bin\Debug\netcoreapp2.1\React_Api.deps.json
+E:\selva\React_Api\bin\Debug\netcoreapp2.1\React_Api.runtimeconfig.json
+E:\selva\React_Api\bin\Debug\netcoreapp2.1\React_Api.runtimeconfig.dev.json
+E:\selva\React_Api\bin\Debug\netcoreapp2.1\React_Api.dll
+E:\selva\React_Api\bin\Debug\netcoreapp2.1\React_Api.pdb
+E:\selva\React_Api\obj\Debug\netcoreapp2.1\React_Api.csprojAssemblyReference.cache
+E:\selva\React_Api\obj\Debug\netcoreapp2.1\React_Api.AssemblyInfoInputs.cache
+E:\selva\React_Api\obj\Debug\netcoreapp2.1\React_Api.AssemblyInfo.cs
+E:\selva\React_Api\obj\Debug\netcoreapp2.1\React_Api.csproj.CoreCompileInputs.cache
+E:\selva\React_Api\obj\Debug\netcoreapp2.1\React_Api.RazorAssemblyInfo.cache
+E:\selva\React_Api\obj\Debug\netcoreapp2.1\React_Api.RazorAssemblyInfo.cs
+E:\selva\React_Api\obj\Debug\netcoreapp2.1\React_Api.RazorTargetAssemblyInfo.cache
+E:\selva\React_Api\obj\Debug\netcoreapp2.1\React_Api.dll
+E:\selva\React_Api\obj\Debug\netcoreapp2.1\React_Api.pdb
+E:\selva\React_Api\obj\Debug\netcoreapp2.1\React_Api.genruntimeconfig.cache
